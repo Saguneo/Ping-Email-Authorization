@@ -163,7 +163,8 @@ footer {
 }
 
 footer p {
-  margin-top: 1.5rem;
+  color: hsl(0, 0%, 59%);
+  margin-top: 2rem;
 }
 
 .social-container {
